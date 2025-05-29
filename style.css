@@ -112,6 +112,7 @@ body {
     border-radius: 10px;
     font-family: "Varela Round", serif;
     border: solid black 2px;
+    font-size: 15px;
 }
 
 .button {
